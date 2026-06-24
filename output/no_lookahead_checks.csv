@@ -1,0 +1,7 @@
+check,status,details
+spot_weights_are_shifted_one_event,PASS,
+perp_weights_are_shifted_one_event,PASS,
+returns_recompute_from_shifted_weights,PASS,
+signals_use_prior_funding_and_prior_basis,PASS,
+first_trade_starts_one_event_after_signal,PASS,first_signal=2020-02-12 00:00:00; first_trade=2020-02-12 08:00:00
+train_forward_dates_do_not_overlap,PASS,train_end=2023-12-31 23:59:59; forward_start=2024-01-01

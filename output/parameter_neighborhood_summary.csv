@@ -1,0 +1,4 @@
+sample,n_candidates,best_label,best_sharpe,final_rule_rank,final_rule_sharpe,median_sharpe,pct_candidates_sharpe_above_2,pct_candidates_positive_return
+train_2020_2023,384,"median funding 168 events, basis horizon 42, entry 0.00015",3.569073840912981,15,3.4864196823298257,3.189128192056594,0.9661458333333334,1.0
+forward_2024_onward,384,"median funding 147 events, basis horizon 10, entry 0.00030",9.127614939383843,41,8.243425473746377,6.733309050918794,0.9557291666666666,0.9739583333333334
+train_and_forward,384,,3.569073840912981,15,3.4864196823298257,3.189128192056594,0.9635416666666666,

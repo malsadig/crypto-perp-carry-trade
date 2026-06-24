@@ -1,0 +1,12 @@
+field,n_assets,min_value,mean_value,max_value,issue_count
+spot_close_coverage,20,0.998199564104994,0.999123930742541,0.999376456302714,0
+perp_close_coverage,20,0.9957328781736718,0.9987003445479867,1.0,0
+mark_close_coverage,20,0.9933038049733198,0.9963213336913654,0.9991188133352916,0
+premium_close_coverage,20,0.993990470094588,0.9952770071870912,0.9988250844470554,0
+funding_event_coverage,20,0.9992418498862776,0.9999620924943139,1.0,0
+missing_rows,20,,,,408130
+nonpositive_price_rows,20,,,,0
+negative_volume_rows,20,,,,0
+invalid_ohlc_rows,20,,,,0
+return_outlier_rows,20,,,,57
+funding_abs_gt_1pct_rows,20,,,,4
